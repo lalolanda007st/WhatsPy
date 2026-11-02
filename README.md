@@ -1,14 +1,15 @@
 # WhatsPy💣
-WhatsApp - 💣Bomber💣 - Tool for automated messaging WhatsApp interactions.
+WhatsApp - 💣Bomber💣 - Herramienta para automatizar interacciones de mensajería en WhatsApp.
+El codigo original fue escrito por palahsu
 
-It's automated messaging tool sending unlimited message.
-   Implemented in Python using the Selenium module.
+Es una herramienta de mensajería automatizada que envía mensajes ilimitados.
+   Implementada en Python usando el módulo Selenium.
    
 <p align="center">
   <img src="https://i.imgur.com/fmSyZX8.jpg" width="154">
   <h1 align="center">WhatsPy</h1>
-  <p align="center">Tooling that <b>automates message</b> your social media interactions to messages on Whatsapp.
-Implemented in Python using the Selenium module.<p>
+  <p align="center">Herramienta que <b>automatiza el envío de mensajes</b> de tus interacciones en redes sociales a mensajes de WhatsApp.
+Implementada en Python usando el módulo Selenium.<p>
   <p align="center">
     <a href="https://github.com/timgrossmann/WhatsPy/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" />
@@ -22,11 +23,11 @@ Implemented in Python using the Selenium module.<p>
   </p>
 </p>  
 
-## Requirements
+## Requisitos
 
 ✔️Python 3.x
-✔️Chrome Browser
-       or
+✔️Navegador Chrome
+       o
 ✔️ChromeWebDriver
 
 ✔️pip install selenium
@@ -35,46 +36,46 @@ Implemented in Python using the Selenium module.<p>
 
 ✔️pip install -r requirements.txt
 
-## How to Run Script
+## Cómo ejecutar el script
 
 `python whatsbomber.py / python3 whatsbomber.py`
 
-✔️Press Enter
+✔️Presiona Enter
 
-`Enter target full name/number`
+`Ingresa el nombre completo o número del destinatario`
 
-✔️Press Enter
+✔️Presiona Enter
 
-✔️Scan QRCode
+✔️Escanea el código QR
 
-✔️On Android: in the Chats screen > Menu > WhatsApp Web.
-✔️On iPhone: go to Settings > WhatsApp Web.
-✔️On Windows Phone: go to Menu > WhatsApp Web.
+✔️En Android: en la pantalla de Chats > Menú > WhatsApp Web.
+✔️En iPhone: ve a Ajustes > WhatsApp Web.
+✔️En Windows Phone: ve a Menú > WhatsApp Web.
 
-✔️Press Enter
+✔️Presiona Enter
 
-💣Bombing Complete!!
+💣¡¡Envío completado!!
 
-## Credits
-### Community
-An active and supportive community is what every open-source project needs to sustain. Together we reached every continent and most of the countries in the world!   
-Thank you all for being part of the WhatsPy community ✌️
+## Créditos
+### Comunidad
+Una comunidad activa y solidaria es lo que todo proyecto de código abierto necesita para mantenerse. ¡Juntos llegamos a todos los continentes y a la mayoría de los países del mundo!   
+Gracias a todos por ser parte de la comunidad de WhatsPy ✌️
 
 <p align="center">
-	<img src="https://i.imgur.com/I5uhxb2.png" alt="WhatsPy reach" width="500px"/>
+	<img src="https://i.imgur.com/I5uhxb2.png" alt="Alcance de WhatsPy" width="500px"/>
 </p>
 
-### Contributors
+### Colaboradores
 
-This project exists thanks to all the people who contribute.
+Este proyecto existe gracias a todas las personas que contribuyen.
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/palahsu/WhatsPy/issues)
 
 <a href="https://github.com/palahsu/WhatsPy/graphs/contributors">
 </a> 
 
-## For more help join Telegram Group: <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+## Para más ayuda, únete al grupo de Telegram: <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-## Follow on:
+## Síguenos en:
 <p align="left">
 <a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
@@ -85,9 +86,9 @@ This project exists thanks to all the people who contribute.
 <a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left">
 <a href="https://t.me/AbirHasan2005"><img src="https://img.shields.io/badge/Telegram-Contact%20AbirHasan2005-blue.svg?logo=telegram"></a>
-</p><p align="left"> 	
+</p><p align="left"> 	wlp0s12f0:
 
-Thank you to all our backers!
+¡Gracias a todos nuestros patrocinadores!
 ---
 
-> **Disclaimer**<a name="disclaimer" />: Please note that this is a research project. I am by no means responsible for any usage of this tool. Use it on your behalf. I am not responsible if your accounts are banned due to extensive use of this tool.
+> **Aviso legal**<a name="disclaimer" />: Ten en cuenta que este es un proyecto de investigación. De ninguna manera me hago responsable del uso que se le dé a esta herramienta. Úsala bajo tu propia responsabilidad. No me hago responsable si tus cuentas son bloqueadas por el uso excesivo de esta herramienta.
